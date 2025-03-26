@@ -93,7 +93,7 @@
 
         <div id="education" class="section">
             <h2>Education</h2>
-            <p>Anna University - Electrical & Electronics Engineering</p>
+            <p>Madras University - B.Sc. graduate </p>
         </div>
 
         <div id="skills" class="section">
